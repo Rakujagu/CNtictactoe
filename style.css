@@ -187,13 +187,13 @@ transition: all 0.3s ease;
     height: 80px;
     margin: 1px;
     border: 2px solid red;
-    border-radius: 5px;
+    border-radius: 3px;
     text-align: center;
     font-size: 40px;
 }
 
 .result-box{
-  background:url(https://cdn.pixabay.com/photo/2014/07/23/16/13/chess-400283__480.jpg);
+  background:url(https://cdn.pixabay.com/photo/2016/09/11/07/19/chess-1660745__480.jpg);
     border-radius: 5px;
     font-size: 20px;
     font-weight: bold;
@@ -211,6 +211,7 @@ transition: all 0.3s ease;
     width: 100%;
     padding: 20px;
     justify-content: center;
+     color: gold;
 }
 .result-box .won-text p{
  font-size: 25px;
@@ -226,7 +227,7 @@ transition: all 0.3s ease;
    border: 1px solid blueviolet;
     color: blue;
 border-radius: 2px;
-background-color: whitesmoke;
+background-color: aqua;
 padding: 2px 2px;
 font-weight: bold;
 
