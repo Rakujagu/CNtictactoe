@@ -37,7 +37,7 @@ body{
 }
 .select-box h3{
     /* font-family: 'Bungee Outline', cursive; */
-    color: aliceblue;
+    color: gold;
     text-align: center;
 }
 .select-box.hide{
@@ -153,7 +153,7 @@ transition: all 0.3s ease;
   left: 0;
   width: 50%;
   height: 100%;
-   background: antiquewhite;
+   background: none;
   border-radius: 5px;
   transition: all 0.3s ease;
 }
@@ -193,7 +193,7 @@ transition: all 0.3s ease;
 }
 
 .result-box{
-  background: aqua;
+  background:url(https://cdn.pixabay.com/photo/2014/07/23/16/13/chess-400283__480.jpg);
     border-radius: 5px;
     font-size: 20px;
     font-weight: bold;
