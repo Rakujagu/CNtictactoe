@@ -127,7 +127,8 @@ border: 1px solid green;
   justify-content: space-between;
 }
 .players span{
-    background: aquamarine;
+     background: aqua;
+    margin: 2px 2px;
     width: 100%;
     padding: 2px 2px;
     border-radius: 5px;
@@ -193,7 +194,7 @@ transition: all 0.3s ease;
 }
 
 .result-box{
-  background:url(https://cdn.pixabay.com/photo/2016/09/11/07/19/chess-1660745__480.jpg);
+  background:url(https://cdn.pixabay.com/photo/2020/05/08/01/32/chess-5143711__480.jpg);
     border-radius: 5px;
     font-size: 20px;
     font-weight: bold;
