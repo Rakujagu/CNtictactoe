@@ -3,13 +3,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-   font-family: 'Redressed', cursive;
+/*    font-family: 'Redressed', cursive; */
 }
 /* ::selection{
   color: #fff;
   background:#56baed;
 } */
 body{
+  font-family: 'Redressed', cursive;
   background: url(https://media.istockphoto.com/photos/metal-tictactoe-game-pieces-picture-id168678735?b=1&k=6&m=168678735&s=170667a&w=0&h=-31Z3GQH75Ji84XE4_9uJva6R06G3n_8yc6wX89c1o0=);
 }
 .select-box, .play-board, .result-box{
