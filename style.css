@@ -24,6 +24,7 @@ body{
   position: absolute;
     top: 40%;
     left:50%;
+  height: 255px;
     border: 2px solid green;
     background:url(https://cdn.pixabay.com/photo/2012/03/09/13/47/neon-22534__480.jpg);
     padding: 20px 20px;
@@ -33,7 +34,11 @@ body{
     border-bottom: 2px solid skyblue;
     font-family: 'Bungee Outline', cursive;
     color: aliceblue;
-
+}
+.selectbox h3{
+    /* font-family: 'Bungee Outline', cursive; */
+    color: aliceblue;
+    text-align: center;
 }
 .select-box.hide{
   opacity: 0;
